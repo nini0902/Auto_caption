@@ -1,4 +1,4 @@
-#音檔轉字幕
+#影片轉音檔 + 音檔前處理
 import argparse
 import subprocess
 from pathlib import Path
